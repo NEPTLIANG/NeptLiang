@@ -6,11 +6,11 @@
 
 <table>
     <tr>
-        <td>
+        <td width="50%">
             <a href="http://neptliang.github.io">✒neptLiang.github.io</a><br/>
             <a href="mailto://neptliang@outlook.com">📧neptLiang@outlook.com</a>
         </td>
-        <td>
+        <td width="50%">
             <pre>
 _______________________________________
            ___         _
@@ -22,7 +22,7 @@ _______________________________________
   Everything is based on MIUI(#滑稽)
       Android Bar @MING19980628          
 _______________________________________
-            <pre>
+            </pre>
         </td>
     </tr>
 </table>
