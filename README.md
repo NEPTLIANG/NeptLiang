@@ -13,19 +13,19 @@
     </tr>
     <tr>
         <td>
-            ```
-                _______________________________________
-                           ___         _
-                          |   |___ ___| |_
-                          | | | -_|  -|  _|
-                          |_|_|___|  _|___|
-                           NEPTUNE|_|LIANG
-                
-                      Hellow!It's MING's GitHub
-                  Everything is based on MIUI(#滑稽)
-                      Android Bar @MING19980628          
-                _______________________________________
-            ```
+            <pre>
+_______________________________________
+           ___         _
+          |   |___ ___| |_
+          | | | -_|  -|  _|
+          |_|_|___|  _|___|
+           NEPTUNE|_|LIANG
+
+      Hellow!It's MING's GitHub
+  Everything is based on MIUI(#滑稽)
+      Android Bar @MING19980628          
+_______________________________________
+            <pre>
         </td>
     </tr>
 </table>
