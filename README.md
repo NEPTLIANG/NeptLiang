@@ -4,6 +4,33 @@
 
 ### 一只计算机大四苟
 
+<table>
+    <tr>
+        <td>
+            <a href="http://neptliang.github.io">✒neptLiang.github.io</a>
+            <a href="mailto://neptliang@outlook.com">📧neptLiang@outlook.com</a>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            <pre>
+                _______________________________________
+                           ___         _
+                          |   |___ ___| |_
+                          | | | -_|  -|  _|
+                          |_|_|___|  _|___|
+                           NEPTUNE|_|LIANG
+                
+                      Hellow!It's MING's GitHub
+                  Everything is based on MIUI(#滑稽)
+                      Android Bar @MING19980628          
+                _______________________________________
+            </pre>
+        </td>
+    </tr>
+</table>
+
 <!--
 []( - [✒neptLiang.github.io](http://neptliang.github.io)
 []( - [📧neptLiang@outlook.com](mailto://neptliang@outlook.com)
