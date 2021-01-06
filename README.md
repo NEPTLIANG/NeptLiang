@@ -10,8 +10,6 @@
             <a href="http://neptliang.github.io">✒neptLiang.github.io</a><br/>
             <a href="mailto://neptliang@outlook.com">📧neptLiang@outlook.com</a>
         </td>
-    </tr>
-    <tr>
         <td>
             <pre>
 _______________________________________
@@ -20,7 +18,6 @@ _______________________________________
           | | | -_|  -|  _|
           |_|_|___|  _|___|
            NEPTUNE|_|LIANG
-
       Hellow!It's MING's GitHub
   Everything is based on MIUI(#滑稽)
       Android Bar @MING19980628          
