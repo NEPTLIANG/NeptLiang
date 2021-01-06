@@ -7,11 +7,10 @@
 <table>
     <tr>
         <td>
-            <a href="http://neptliang.github.io">✒neptLiang.github.io</a>
+            <a href="http://neptliang.github.io">✒neptLiang.github.io</a><br/>
             <a href="mailto://neptliang@outlook.com">📧neptLiang@outlook.com</a>
         </td>
     </tr>
-    
     <tr>
         <td>
             <pre>
