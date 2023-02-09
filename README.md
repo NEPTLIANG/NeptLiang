@@ -95,3 +95,12 @@ _______________________________________
 []( _______________________________________
 []( ```
 -->
+
+<!-- - | repository | description | platform | technology
+-- | ---------- | ----------- | -------- | -
+1 | [intelli-edu-admin](https://github.com/NEPTLIANG/intelli-edu-admin) | “智慧学工”系统部分页面——学校Vue项目 | Mobile Web | Vue
+2 | [SimplifiedRSA](https://github.com/NEPTLIANG/SimplifiedRSA) | 简化的RSA加解密、数字签名系统——大三第一学期学校课程《信息安全与保密》期末作业 | Desktop Web | JavaScript, PHP
+3 | [RealTimeBusQuery](https://github.com/NEPTLIANG/RealTimeBusQuery) | 实时公交系统——2020年计算机设计大赛校赛参赛作品 | Desktop Web |JavaScript, PHP, MySQL
+4 | [RotateClock](https://github.com/NEPTLIANG/RotateClock) | 轮盘时钟——CSS动效练习 | - | JavaScript, CSS
+5 | [MeetSocialPlatform](https://github.com/NEPTLIANG/MeetSocialPlatform) | “遇见交友平台”订单填写、套餐展示页面——2018年“互联网+创新创业比赛”参赛作品 | Desktop Web | HTML, CSS
+6 | [Web](https://github.com/NEPTLIANG/Web) | Web开发学习及相关项目 -->
