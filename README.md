@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptliang&layout=compact&hide=python,smali,openedge%20abl,tcl,c,html,css,c%2b%2b,c%23,asp.net,asp,java,tex,powershell,batchfile,makefile,cmake,roff&title_color=00ffff&text_color=00bfbf&icon_color=bfffff&bg_color=001f2f&hide_border=true&width=100&card_width=440)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=neptliang&show_icons=true&title_color=00ffff&text_color=00bfbf&icon_color=bfffff&bg_color=001f2f&hide_border=true&hide=contribs" />
+  <img align="center" height="256px" width="45%" src="https://github-readme-stats.vercel.app/api?username=neptliang&show_icons=true&title_color=00ffff&text_color=00bfbf&icon_color=bfffff&bg_color=001f2f&hide_border=true&hide=contribs" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptliang&layout=compact&hide=python,smali,openedge%20abl,tcl,c,html,css,c%2b%2b,c%23,asp.net,asp,java,tex,powershell,batchfile,makefile,cmake,roff&title_color=00ffff&text_color=00bfbf&icon_color=bfffff&bg_color=001f2f&hide_border=true&card_width=440" />
+  <img align="right" height="256px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptliang&layout=compact&hide=python,smali,openedge%20abl,tcl,c,html,css,c%2b%2b,c%23,asp.net,asp,java,tex,powershell,batchfile,makefile,cmake,roff&title_color=00ffff&text_color=00bfbf&icon_color=bfffff&bg_color=001f2f&hide_border=true&card_width=400" />
 </a>
 
 # NeptLiang
