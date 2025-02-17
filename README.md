@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" height="256px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptliang&layout=compact&hide=python,smali,openedge%20abl,tcl,c,html,css,c%2b%2b,c%23,asp.net,asp,java,tex,powershell,batchfile,makefile,cmake,roff&title_color=00ffff&text_color=00bfbf&icon_color=bfffff&bg_color=001f2f&hide_border=true&card_width=400" />
+  <img align="right" height="256px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptliang&layout=compact&hide=python,smali,openedge%20abl,tcl,html,css,c,c++,c%23,java,asp.net,asp,tex,powershell,batchfile,makefile,cmake,roff&title_color=00ffff&text_color=00bfbf&icon_color=bfffff&bg_color=001f2f&hide_border=true&card_width=450" />
 </a>
 
 # NeptLiang
