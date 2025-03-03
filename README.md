@@ -91,6 +91,38 @@ _______________________________________
     </tr>
 </table>
 
+近期活动范围：
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.415,
+              23.095
+            ],
+            [
+              111.809,
+              22.152
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
 <!--
 []( - [✒ neptLiang.github.io](http://neptliang.github.io)
 []( - [📧 neptLiang@outlook.com](mailto://neptliang@outlook.com)
