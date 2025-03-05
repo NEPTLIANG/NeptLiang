@@ -43,32 +43,32 @@
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg> -->
 
-<table style="width: 100%">
+<!-- <table style="width: 100%">
     <tr>
-        <td width="50%" style="word-break: break-all; width: 50%">
+        <td width="50%" style="word-break: break-all; width: 50%"> --!>
             <!-- <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg> -->
-            <a href="http://neptliang.github.io" style="line-height: 16px; vertical-align: center">
-              <!-- <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg> -->
-              <!-- <img src="img/article.png" style="height: 16px" /> -->
-              ✒️ 
-              neptLiang.github.io
-            </a> <br/>
-            <a href="mailto://neptliang@outlook.com" style="line-height: 16px; vertical-align: center">
-              <!-- <img src="img/mail.png" style="height: 16px" /> -->
-              📧 
-              neptLiang@outlook.com
-            </a> <br/>
-            <a href="https://baike.baidu.com/item/%E5%B2%AD%E5%8D%97%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2/13852375?fr=aladdin" style="line-height: 16px; vertical-align: center">
-              <!-- <img src="img/school.png" style="height: 16px" /> -->
-              🏫 
-              Lingnan Normal University
-            </a> <br/>
-            <a href="https://surl.amap.com/H0KZVC1c7sE" style="line-height: 16px; vertical-align: baseline">
-              <!-- <img src="img/home.png" style="height: 16px" /> -->
-              🏡 
-              Yangchun, Guangdong, China
-            </a>
-        </td>
+<a href="http://neptliang.github.io" style="line-height: 16px; vertical-align: center">
+  <!-- <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg> -->
+  <!-- <img src="img/article.png" style="height: 16px" /> -->
+  ✒️ 
+  neptLiang.github.io
+</a> <br/>
+<a href="mailto://neptliang@outlook.com" style="line-height: 16px; vertical-align: center">
+  <!-- <img src="img/mail.png" style="height: 16px" /> -->
+  📧 
+  neptLiang@outlook.com
+</a> <br/>
+<a href="https://baike.baidu.com/item/%E5%B2%AD%E5%8D%97%E5%B8%88%E8%8C%83%E5%AD%A6%E9%99%A2/13852375?fr=aladdin" style="line-height: 16px; vertical-align: center">
+  <!-- <img src="img/school.png" style="height: 16px" /> -->
+  🏫 
+  Lingnan Normal University
+</a> <br/>
+<a href="https://surl.amap.com/H0KZVC1c7sE" style="line-height: 16px; vertical-align: baseline">
+  <!-- <img src="img/home.png" style="height: 16px" /> -->
+  🏡 
+  Yangchun, Guangdong, China
+</a> <br/> <br/>
+        <!-- </td>
         <td width="50%" style="width: 50%">
             <pre style="font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace">
 _______________________________________
@@ -84,7 +84,7 @@ _______________________________________
             </pre>
         </td>
     </tr>
-</table>
+</table> --!>
 
 近期活动范围：
 
